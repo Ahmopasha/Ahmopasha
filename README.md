@@ -2,7 +2,7 @@
 About Me:<br>Hi, I’m @Ahmopasha<br>I’m interested in learning C and C++.<br><br>Generally, my norms do not fit with the society's.<br>
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmetkandemirpehlivanli) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thepehlivanli/) 
 [![@Me](https://img.shields.io/badge/%40Me-8A2BE2)](https://ahmopasha.github.io/Me/)
 
 # 💻 Tech Stack:
